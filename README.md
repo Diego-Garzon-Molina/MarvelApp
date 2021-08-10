@@ -11,4 +11,5 @@ Para la inyección de dependencias se ha usado Koin y para el manejo de hilos un
 
 La navegación entre fragmentos se basa en Navigation Component.
 
+La app no funcionará sin añadir las API key pública y privada del web services de Marvel al fichero gradle.properties.
 
