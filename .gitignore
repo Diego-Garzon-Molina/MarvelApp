@@ -5,7 +5,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-gradle.properties
 .idea/
 .gradle/
 local.properties
