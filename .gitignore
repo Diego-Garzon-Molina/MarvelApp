@@ -1,0 +1,15 @@
+*.iml
+.gradle
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+gradle.properties
+.idea/
+.gradle/
+local.properties
+captures/
+ajcore*.txt
+app/ikki/debug/output.json
+detekt/
